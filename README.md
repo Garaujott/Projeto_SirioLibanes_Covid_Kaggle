@@ -5,9 +5,8 @@
 
 
 # :building_construction: **EM CONSTRUÇÃO**
-<!---
-    Adicionar imagem
--->
+
+<img src="https://imagens.ebc.com.br/RQgFx2xEzgydP1pcZA6oCvajALY=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/hospital_de_campanha0805200347.jpg?itok=w5l08AYz" alt="drawing" width="400"/>
 
 ## Introdução
 
@@ -32,4 +31,10 @@ O pré-processamento realizado na base consistiu em:
     Explicar o tipo de modelo utilizado
 -->
 
-## 
+## Avaliação do Modelo e Conclusões
+
+<!---
+    Indicar principais métricas utilizadas
+
+    
+-->
